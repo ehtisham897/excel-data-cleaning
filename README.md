@@ -6,8 +6,8 @@ This project is designed to clean messy Excel datasets using Python and Pandas a
 It can quickly remove duplicate entries and empty rows, ensuring clean and organized data for professional use.
 
 1. Remove Duplicate Rows  
-2 Delete Completely Empty Rows  
-3.Handle Large Excel Files Efficiently  
+2. Delete Completely Empty Rows  
+3. Handle Large Excel Files Efficiently  
 4. Save the Cleaned Data into a New File
 
 # Why Choose This?
